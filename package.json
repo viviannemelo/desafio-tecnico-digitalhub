@@ -1,0 +1,14 @@
+{
+    "name": "desafio-digitalhub",
+    "version": "1.0.0",
+    "description": "Desafio Técnico para Analista de QA na Digital Hub",
+    "main": "index.js",
+    "scripts": {
+      "cy:open": "cypress open",
+      "test": "cypress run"
+    },
+    "license": "MIT",
+    "devDependencies": {
+      "cypress": "^6.4.0"
+    }
+  }
