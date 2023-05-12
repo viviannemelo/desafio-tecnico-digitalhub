@@ -41,11 +41,15 @@ Ou acesse o link: [Google Sheets](https://docs.google.com/spreadsheets/d/1hANOg8
 ```sh
 git clone  git@github.com:viviannemelo/desafio-tecnico-digitalhub.git
 ```
-2. Instalar dependências utilizando o comando:
+2. Entre na pasta:
+```sh
+cd desafio-tecnico-digitalhub
+```
+3. Instalar dependências utilizando o comando:
 ```sh
 npm install
 ```
-3. Acessar arquivo
+4. Acessar arquivo
 ```tree
 .
 ├─ ...
@@ -54,11 +58,11 @@ npm install
        └─ login.spec.js
 
 ```
-4. Executar comando para rodar o teste
+5. Executar comando para rodar o teste
 ```sh
 npm test
 ```
-5. Execute o comando para abrir o Test Runner e executar em modo interativo
+6. Execute o comando para abrir o Test Runner e executar em modo interativo
 ```sh
 npm run cy:open
 ```
