@@ -39,7 +39,7 @@ Ou acesse o link: [Google Sheets](https://docs.google.com/spreadsheets/d/1hANOg8
 # Execução
 1. Clone o repositório utilizando:
 ```sh
-git clone  <>
+git clone  git@github.com:viviannemelo/desafio-tecnico-digitalhub.git
 ```
 2. Instalar dependências utilizando o comando:
 ```sh
@@ -62,4 +62,3 @@ npm test
 ```sh
 npm run cy:open
 ```
-
